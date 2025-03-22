@@ -1,6 +1,6 @@
 import pytest
 
-from lib.api.regres_api_response_service import RegresApiResponseService
+from python_test_project_1.lib.api.regres_api_response_service import RegresApiResponseService
 
 
 @pytest.fixture(scope="session")
